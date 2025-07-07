@@ -14,9 +14,13 @@ Un'applicazione meteo con interfaccia grafica scritta in Python, basata sul serv
 
 ---
 
+
 ## 📸 Anteprima
 
-<img src="https://via.placeholder.com/400x200.png?text=App+Meteo+GUI+Preview" alt="Anteprima" width="400"/>
+![Anteprima GUI](anteprima.png)
+
+
+
 
 ---
 
